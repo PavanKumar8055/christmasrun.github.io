@@ -1,0 +1,22 @@
+How To Play?
+1. Just tap the Screen to let the Santa jump.
+2. Collect as many gifts as you can, without fall.
+3. Run as long as you can and collect all the gifts.
+
+Features of the game
+1.Simple and fun game
+2.Beautiful graphics/ Music
+3.Smooth Touch controls
+4.Tap the screen to make Santa Run.
+5.Collect all the Christmas gifts for the kids.
+6.Have the music and sound effects
+
+How we built it?
+1. Unity3D
+2. Inkscape
+3. Adobe-Illustrator
+4. c#
+5. HTML
+6. CSS
+7. javascript
+
